@@ -1,0 +1,10 @@
+.card:hover{
+    transform: scale(1.2);
+    background: #ff800a;
+    z-index: 1;
+    box-shadow: 2px 2px 2px #000;
+    transition: 5s;
+    }
+    .card{
+        width: 350px;
+    }
